@@ -1,0 +1,300 @@
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr4TRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr4TRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5DRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr5DRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5jRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr5jRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5TRASf6M7Q.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr5TRASf6M7Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr6DRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr6DRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr6jRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr6jRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr6TRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr6TRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr6zRASf6M7VBj.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0IIpQlx3QUlC5A4PNr6zRASf6M7VBj.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVa9yBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVa9yBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVadyBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVadyBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVaNyBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVaNyBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVatyBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVatyBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVYNyBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVYNyBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZ9yBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVZ9yBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZdyBx2pqPIif.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVZdyBx2pqPIif.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZNyBx2pqPA.woff2
+File Name: D:\проект1\www.onetap.com\s\notosans\v9\o-0NIpQlx3QUlC5A4PNjXhFVZNyBx2pqPA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/quantico/v9/rax5HiSdp9cPL3KIF7TQAShdu0_y8zac.woff2
+File Name: D:\проект1\www.onetap.com\s\quantico\v9\rax5HiSdp9cPL3KIF7TQAShdu0_y8zac.woff2
+Content Type: font/woff2
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816
+File Name: D:\проект1\www.onetap.com\beacon.min.js\v52afc6f149f6479b8c77fa569edb01181681764108816
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-114665155-3
+File Name: D:\проект1\www.onetap.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/
+File Name: D:\проект1\www.onetap.com\index.htm
+Content Type: text/html
+
+Uri: https://www.onetap.com/apple-touch-icon.png?v=XBb2yGPgMz
+File Name: D:\проект1\www.onetap.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/12-0a8e0d97959e0cf450082e17435e8a13.jpg?1579969534
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\12-0a8e0d97959e0cf450082e17435e8a13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/19-c876395aa4155b9466ebc86873f8ddfc.jpg?1579969534
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\19-c876395aa4155b9466ebc86873f8ddfc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/4-11063e388a837e8a567ffde7c0129c5b.jpg?1579969533
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\4-11063e388a837e8a567ffde7c0129c5b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/755-0b7b02289da297832638ceab2a128f02.jpg?1583426248
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\755-0b7b02289da297832638ceab2a128f02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/756-c8d7330f841a2c73b0a81c2e25c18118.jpg?1583426264
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\756-c8d7330f841a2c73b0a81c2e25c18118.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/0/757-2153892f7d411d5c7989cf035292c770.jpg?1583426290
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\0\757-2153892f7d411d5c7989cf035292c770.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/1/1503-cd59acab2937855d5e502cd0f0acda90.jpg?1592262369
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\1\1503-cd59acab2937855d5e502cd0f0acda90.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/1/1537-41266ccb13d156808a8a45703bdec65f.jpg?1592670941
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\1\1537-41266ccb13d156808a8a45703bdec65f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/data/xfmg/thumbnail/3/3030-7516cb679062b4e6bc5846eb58b24fed.jpg?1608842571
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\data\xfmg\thumbnail\3\3030-7516cb679062b4e6bc5846eb58b24fed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/home_hero/1.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\home_hero\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/home_hero/2.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\home_hero\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/home_hero/3.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\home_hero\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/onetap-bottomFooterCtaBg.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\onetap-bottomFooterCtaBg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/reviewers/1.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\reviewers\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/reviewers/2.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\reviewers\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/reviewers/3.jpg
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\reviewers\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.onetap.com/cdn-cgi/image/f=auto/styles/onetap/onetap/skull-unmasked.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\image\f=auto\styles\onetap\onetap\skull-unmasked.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-error.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-icon-server.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\проект1\www.onetap.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/cdn-cgi/l/email-protection
+File Name: D:\проект1\www.onetap.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.onetap.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\проект1\www.onetap.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: D:\проект1\www.onetap.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\проект1\www.onetap.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.onetap.com/css/style.css?_v=b37390f6
+File Name: D:\проект1\www.onetap.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.onetap.com/favicon-16x16.png?v=XBb2yGPgMz
+File Name: D:\проект1\www.onetap.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/favicon-32x32.png?v=XBb2yGPgMz
+File Name: D:\проект1\www.onetap.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.onetap.com/favicon.ico?v=XBb2yGPgMz
+File Name: D:\проект1\www.onetap.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.onetap.com/img/onetap.svg
+File Name: D:\проект1\www.onetap.com\img\onetap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.onetap.com/js/vendor/jquery/jquery-3.5.1.min.js?_v=b37390f6
+File Name: D:\проект1\www.onetap.com\js\vendor\jquery\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/js/vendor/lightslider/lightslider.min.js?_v=e6803bcb
+File Name: D:\проект1\www.onetap.com\js\vendor\lightslider\lightslider.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/js/vendor/vendor-compiled.js?_v=b37390f6
+File Name: D:\проект1\www.onetap.com\js\vendor\vendor-compiled.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/js/xf/core-compiled.js?_v=b37390f6
+File Name: D:\проект1\www.onetap.com\js\xf\core-compiled.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/js/xf/preamble.min.js?_v=b37390f6
+File Name: D:\проект1\www.onetap.com\js\xf\preamble.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/js/xfmg/slider.min.js?_v=e6803bcb
+File Name: D:\проект1\www.onetap.com\js\xfmg\slider.min.js
+Content Type: application/javascript
+
+Uri: https://www.onetap.com/safari-pinned-tab.svg?v=XBb2yGPgMz
+File Name: D:\проект1\www.onetap.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-brands-400.woff2?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-brands-400.woff?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-light-300.woff2?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-light-300.woff?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-regular-400.woff2?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-regular-400.woff?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-solid-900.woff2?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.onetap.com/styles/fonts/fa/fa-solid-900.woff?_v=5.15.1
+File Name: D:\проект1\www.onetap.com\styles\fonts\fa\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.onetap.com/styles/onetap/onetap/onetap-Flair1.svg
+File Name: D:\проект1\www.onetap.com\styles\onetap\onetap\onetap-Flair1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.onetap.com/styles/onetap/onetap/onetap-Flair2.svg
+File Name: D:\проект1\www.onetap.com\styles\onetap\onetap\onetap-Flair2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.onetap.com/styles/onetap/onetap/onetap-underlineFlair.svg
+File Name: D:\проект1\www.onetap.com\styles\onetap\onetap\onetap-underlineFlair.svg
+Content Type: image/svg+xml
+
